@@ -1,4 +1,4 @@
-# IB2025
+[IB-20240211-250424.pdf](https://github.com/user-attachments/files/25434969/IB-20240211-250424.pdf)# IB2025
 R codes for IB in breast cancer
 Bulk RNA-seq:
 IB_ssGSEA_20231118.R RNA-seq of IB in MDA-MB-231
@@ -14,4 +14,4 @@ Spatial transcriptomics (nanostring DSP):
 [Graphic_abstract.tif](https://github.com/user-attachments/files/24604203/Graphic_abstract.tif)
 
 
-
+<img width="3177" height="2601" alt="GA-IB-20240211(1)" src="https://github.com/user-attachments/assets/0769baff-097c-40f7-9531-33edac4449dc" />
