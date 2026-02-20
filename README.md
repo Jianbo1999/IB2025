@@ -13,5 +13,4 @@ Spatial transcriptomics (nanostring DSP):
 2.TME.R 
 [Graphic_abstract.tif](https://github.com/user-attachments/files/24604203/Graphic_abstract.tif)
 
-[IB-20240211-250424.pdf](https://github.com/user-attachments/files/25434969/IB-20240211-250424.pdf)
 <img width="3177" height="2601" alt="GA-IB-20240211(1)" src="https://github.com/user-attachments/assets/0769baff-097c-40f7-9531-33edac4449dc" />
